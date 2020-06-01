@@ -2,7 +2,9 @@ pdfsplit - A Mac OS X utility to split PDF into pages
 =====================================================
  
 ### Build
+
 ----
+
 Build it with Xcode installed then type 'make'. Though I haven't
 tested myself, it should support systems above Mac OS X 10.4.
 
@@ -12,8 +14,11 @@ tested myself, it should support systems above Mac OS X 10.4.
 - make 
 ```
 
+
 ### Run
+
 ----
+
 ```bash
 usage: pdfsplit input.pdf
 
